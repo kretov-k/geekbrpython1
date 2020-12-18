@@ -1,0 +1,3 @@
+Company1 ООО 150 100
+Company2 ИП 80 120
+Company3 ИП 120 60
